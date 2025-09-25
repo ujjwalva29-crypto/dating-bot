@@ -1,0 +1,24 @@
+{
+  "id": "id_zRgUoZjjcr4yxIG0B",
+  "model": "asi1-mini",
+  "executable_data": [],
+  "intermediate_steps": [],
+  "conversation_id": null,
+  "thought": ["\n\n"],
+  "choices": [
+    {
+      "index": 0,
+      "finish_reason": "stop",
+      "message": {
+        "role": "Dating assistant,wingman,profile analyzer",
+        "content": "Hey there! 👋 Ready for some right swipes?",
+        "reasoning": "\n\n"
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 71,
+    "completion_tokens": 105,
+    "total_tokens": 176
+  }
+}
